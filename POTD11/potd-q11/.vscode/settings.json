@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.elox": "lox",
+        "*.sw": "rust",
+        "new": "cpp"
+    }
+}
