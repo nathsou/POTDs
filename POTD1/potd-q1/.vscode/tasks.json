@@ -14,11 +14,8 @@
             "${workspaceFolder}/hello"
         ],
         "options": {
-            "cwd": "/usr/bin"
+            "cwd": "${workingDirectory}"
         },
-        "problemMatcher": [
-            "$gcc"
-        ],
         "group": "build"
     }]
 }
