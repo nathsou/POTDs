@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.sw": "rust",
+        "*.pl": "prolog",
+        "iterator": "cpp"
+    }
+}
