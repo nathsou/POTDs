@@ -10,6 +10,7 @@ void insertSorted(Node **head, Node *insert) {
   if ((*head)->data_ >= insert->data_) {
     insert->next_ = *head;
     (*head) = insert;
+    return;
   }
 
   Node *node = *head;
