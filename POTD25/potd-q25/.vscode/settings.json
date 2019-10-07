@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "*.sw": "rust",
+        "*.pl": "prolog",
+        "__split_buffer": "cpp",
+        "array": "cpp",
+        "string": "cpp",
+        "string_view": "cpp",
+        "vector": "cpp"
+    }
+}
