@@ -62,8 +62,8 @@ void Queue::enqueue(int value) {
       new_data[i] = data[(front + i) % capacity];
     }
 
+    _clean();
     capacity = new_cap;
-    delete[] data;
     data = new_data;
     front = 0;
   }
