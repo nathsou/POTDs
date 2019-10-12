@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "*.sw": "rust",
+        "*.pl": "prolog",
+        "__node_handle": "cpp"
+    }
+}
