@@ -15,3 +15,4 @@ struct BTreeNode {
 };
 
 std::vector<int> traverse(BTreeNode* root);
+void _traverse(BTreeNode* root, std::vector<int>& vec);
